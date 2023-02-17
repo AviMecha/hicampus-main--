@@ -1,0 +1,15 @@
+body {
+    background: #e9ecef;
+}
+
+section {
+    padding-bottom: 110px;
+}
+
+footer {
+    width: 100%;
+    height: 110px;
+    bottom: 0px;
+    position: absolute;
+}
+
